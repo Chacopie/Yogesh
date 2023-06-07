@@ -1,0 +1,44 @@
+/* body{
+    background-color: aqua;
+} */
+/* h1,h2,h3{
+    float: left;
+    margin: 20px;
+    background-color: rgb(218, 19, 19);
+} */
+/* header nav a{
+    float: right;
+    margin: 20px;
+    position: relative;
+    background-color: rgb(9, 7, 12);
+    display: block;
+} */
+/* header{
+    content: '';
+    display: block;
+    clear: both;
+    
+} */
+/* nav{
+    float: right;
+    margin: 30px;
+} */
+ a{
+    
+    /* margin-right: 30px; */
+     
+    text-decoration-line:underline;
+    margin-right: 30px;
+    padding: 4px;
+    color: yellowgreen;
+    }
+/* .blog{
+    text-decoration: dotted;
+}     */
+/* header nav a:hover{
+    background-color: blue;
+} */
+body{
+    display: inline;
+    margin: 0;
+}
